@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Dami\classes\CS216\LAB4\LAB4\Source.cpp(135,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dami\classes\CS216\LAB4\LAB4\Source.cpp(210,23): warning C4018: '<': signed/unsigned mismatch
+  LAB4.vcxproj -> C:\Users\Dami\classes\CS216\LAB4\Debug\LAB4.exe
